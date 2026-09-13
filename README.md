@@ -12,9 +12,6 @@ I focus on the details that separate a working demo from a system you could actu
 **[FurTherapy](https://github.com/Arch9Dev/furtherapy)** — Live booking platform built for a real client business, taken through a full pre-deployment security audit (HMAC-signed sessions, credential rotation, CORS hardening).
 `SvelteKit` `SQLite` `Node.js`
 
-**[TicketFlow](https://github.com/Arch9Dev/TicketFlow)** — Job/ticket tracking system with JWT auth, role-based authorization, and an outbox pattern for reliable async notifications.
-`React` `Next.js` `Express` `Prisma` `PostgreSQL`
-
 ## 🛠️ Stack
 
 `JavaScript` `TypeScript` `React` `Next.js` `Node.js/Express` `PostgreSQL` `Prisma` `SQLite`
