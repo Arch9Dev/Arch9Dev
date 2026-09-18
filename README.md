@@ -6,11 +6,14 @@ I focus on the details that separate a working demo from a system you could actu
 
 ## 🔧 Featured Projects
 
-**[StockAura](https://github.com/Arch9Dev/StockAura)** — Inventory management system with RBAC, audit trails, soft-delete archiving, and transactional stock movements to prevent race conditions under concurrent use.
+**[StockAura](https://github.com/Arch9Dev/StockAura)** - Inventory management system with RBAC, audit trails, soft-delete archiving, and transactional stock movements to prevent race conditions under concurrent use.
 `Next.js` `Express` `PostgreSQL` `Prisma 7`
 
-**[FurTherapy](https://github.com/Arch9Dev/furtherapy)** — Live booking platform built for a real client business, taken through a full pre-deployment security audit (HMAC-signed sessions, credential rotation, CORS hardening).
+**[FurTherapy](https://github.com/Arch9Dev/furtherapy)** - Live booking platform built for a real client business, taken through a full pre-deployment security audit (HMAC-signed sessions, credential rotation, CORS hardening).
 `SvelteKit` `SQLite` `Node.js`
+
+**[Portfolio](https://github.com/Arch9Dev/protfolio)** - Portfolio page showcasing work that I have done
+`React` `Node.js` `tailwind.css`
 
 ## 🛠️ Stack
 
