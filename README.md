@@ -12,7 +12,7 @@ I focus on the details that separate a working demo from a system you could actu
 **[FurTherapy](https://github.com/Arch9Dev/furtherapy)** - Live booking platform built for a real client business, taken through a full pre-deployment security audit (HMAC-signed sessions, credential rotation, CORS hardening).
 `SvelteKit` `SQLite` `Node.js`
 
-**[Portfolio](https://github.com/Arch9Dev/protfolio)** - Portfolio page showcasing work that I have done
+**[Portfolio](https://github.com/Arch9Dev/portfolio)** - Portfolio page showcasing work that I have done
 `React` `Node.js` `tailwind.css`
 
 ## 🛠️ Stack
