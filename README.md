@@ -1,6 +1,6 @@
 # Hi, I'm Ben 👋
 
-Software Engineering graduate based in Auckland, NZ, building full-stack, production-style applications — not just CRUD demos.
+Software Engineering graduate based in Auckland, NZ, building full-stack, production-style applications - not just CRUD demos.
 
 I focus on the details that separate a working demo from a system you could actually run a business on: role-based access control, audit trails, and data that stays consistent under real conditions.
 
