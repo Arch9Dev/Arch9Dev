@@ -12,6 +12,8 @@ I focus on the details that separate a working demo from a system you could actu
 **[FurTherapy](https://github.com/Arch9Dev/furtherapy)** - Live booking platform built for a real client business, taken through a full pre-deployment security audit (HMAC-signed sessions, credential rotation, CORS hardening).
 `SvelteKit` `SQLite` `Node.js`
 
+**[Systems Monitor](https://github.com/Arch9Dev/system-monitor)** - System monitoring platform: a Python agent reads real CPU, RAM and disk metrics and streams them to a FastAPI backend, with historical charts, configurable alert rules, and an event log. `Python` `FastAPI` `PostgreSQL` `React` `Docker`
+
 **[Portfolio](https://github.com/Arch9Dev/portfolio)** - Portfolio page showcasing work that I have done
 **[Link](https://arch9dev.vercel.app)**
 `React` `Node.js` `tailwind.css`
