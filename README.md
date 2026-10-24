@@ -24,5 +24,7 @@ I focus on the details that separate a working demo from a system you could actu
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/benjamin-dutoit) · Auckland, New Zealand · Open to full-stack / backend roles
+Auckland, New Zealand · Open to full-stack / backend roles
+[LinkedIn](https://linkedin.com/in/benjamin-dutoit)
+[Email](bendt03@outlook.co.nz) 
 
